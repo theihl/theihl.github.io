@@ -1,8 +1,8 @@
 body {
 	background-color: #ED1B24;
 	text-align: center;
-	margin-left: auto;
-	margin-right: auto;
+	margin-left: fixed;
+	margin-right: fixed;
 	font-family: 'Ubuntu', sans-serif;
 }
 .nav {
