@@ -30,7 +30,7 @@ a:visited {
 	color: #ffffff;
 }
 .nav > li > a:hover > a:visited {
-	color: #c1c1c1
+	color: #c1c1c1;
 }
 .nav > li > a:hover > a:link {
 	color: #c1c1c1;
